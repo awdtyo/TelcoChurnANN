@@ -89,9 +89,4 @@ pip install numpy pandas scikit-learn tensorflow matplotlib seaborn
 2.  Ensure you have the `tel_churn.csv` dataset in the same directory as the notebook.
 3.  Open the Jupyter notebook (or Colab) and run all cells.
 
-## Future Work
-- Experiment with more complex ANN architectures (e.g., adding more layers, dropout).
-- Explore other machine learning algorithms (e.g., Logistic Regression, Random Forest, XGBoost).
-- Perform hyperparameter tuning to optimize model performance.
-- Implement feature engineering to create more predictive features.
-- Address class imbalance if any, using techniques like SMOTE.
+
