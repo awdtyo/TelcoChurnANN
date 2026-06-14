@@ -8,7 +8,7 @@
 - [Model Architecture](#model-architecture)
 - [Training and Evaluation](#training-and-evaluation)
 - [Results](#results)
-- [Installation](#installation)
+- [Installation](#installation) 
 - [Usage](#usage)
 - [Future Work](#future-work)
 
